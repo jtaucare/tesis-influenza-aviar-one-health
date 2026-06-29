@@ -66,6 +66,6 @@ Este proyecto adopta los principios de **Ciencia Abierta** para garantizar la tr
 
 **Jorge Taucare Miranda**
 
-Doctorando
+Alumno de Doctorado en Ingeniería y Ciencias con la Industria
 
 Proyecto de investigación sobre vigilancia epidemiológica y sistemas de alerta temprana para influenza aviar bajo el enfoque **Una Salud (One Health)**.
